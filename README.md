@@ -148,7 +148,7 @@ app/
 
 ## 📌 Author
 
-**Your Name**
+Debopriya Debnath
 
 ---
 
